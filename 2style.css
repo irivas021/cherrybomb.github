@@ -1,0 +1,23 @@
+body { 
+	height: 800px;
+	background-color: #feebff;
+	background-image: linear-gradient(#fce38a, #f38181);
+	}
+
+h1 {
+	color: #f38181;
+	text-align: left;
+}
+
+p {
+	color: red;
+	text-align: left;
+}
+
+a.one:link {color:#ffd336;}
+a.one:visited {color:#f38181;}
+a.one:hover {color:#b05151;}
+
+.imgMem {
+	float: right;
+}
